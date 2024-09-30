@@ -1,4 +1,4 @@
-package ru.yandex.praktikum;
+package ru.yandex.praktikum.pojo;
 
 public class DeleteCourierDeserialization {
     private int id;
